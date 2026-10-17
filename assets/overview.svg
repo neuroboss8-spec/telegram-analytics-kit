@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="660" viewBox="0 0 1120 660" role="img" aria-labelledby="title desc">
+  <title id="title">Telegram Analytics Kit — synthetic report preview</title>
+  <desc id="desc">A demo report with registrations, conversion, revenue and a dashboard button, next to a list of reusable analytics features. All data is fictional.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1624"/><stop offset="1" stop-color="#142c37"/></linearGradient></defs>
+  <rect width="1120" height="660" rx="24" fill="url(#bg)"/>
+  <g font-family="Arial, sans-serif">
+    <text x="48" y="66" font-size="14" fill="#63ddbb" letter-spacing="3">SELF-HOSTED · JSON ADAPTER · MIT</text>
+    <text x="48" y="130" font-size="43" font-weight="700" fill="#f5f8fb">Telegram</text>
+    <text x="48" y="182" font-size="43" font-weight="700" fill="#f5f8fb">Analytics Kit</text>
+    <text x="48" y="234" font-size="19" fill="#b3c8d2">Your numbers. One clear message.</text>
+    <g fill="#d7e5eb" font-size="19">
+      <text x="48" y="304">01  Reports and conversion</text>
+      <text x="48" y="352">02  Daily summaries</text>
+      <text x="48" y="400">03  Owner-approved access</text>
+      <text x="48" y="448">04  Balance and domain reminders</text>
+    </g>
+    <text x="48" y="581" font-size="15" fill="#85a1ae">Connect any read-only JSON endpoint.</text>
+    <text x="48" y="607" font-size="15" fill="#85a1ae">No database credentials required.</text>
+    <rect x="559" y="40" width="516" height="580" rx="22" fill="#0e1926" stroke="#29404e"/>
+    <circle cx="595" cy="77" r="11" fill="#55b9e8"/>
+    <text x="620" y="83" fill="#eaf3f6" font-size="18" font-weight="700">Analytics Bot</text>
+    <rect x="581" y="109" width="471" height="375" rx="16" fill="#1b3041"/>
+    <g fill="#eaf3f6" font-size="19">
+      <text x="603" y="144" font-weight="700">Summary · Analytics</text>
+      <text x="603" y="175" font-size="14" fill="#7fe0c6">DEMO · ALL VALUES ARE FICTIONAL</text>
+      <text x="603" y="222">Registrations: 100</text>
+      <text x="603" y="254" fill="#adc4d0">Web: 60 (60%) · App: 40 (40%)</text>
+      <text x="603" y="302">Completed tasks: 72 (72%)</text>
+      <text x="603" y="334">Invoices: 18 (18%)</text>
+      <text x="603" y="366">Buyers: 12 (12%)</text>
+      <text x="603" y="416">Compute balance: 18.02 USD</text>
+      <text x="603" y="454" font-weight="700">Revenue: 3,600.00 RUB</text>
+    </g>
+    <rect x="581" y="493" width="231" height="47" rx="9" fill="#243f53"/>
+    <rect x="821" y="493" width="231" height="47" rx="9" fill="#243f53"/>
+    <rect x="581" y="549" width="471" height="47" rx="9" fill="#1c6667"/>
+    <g fill="#eef8fc" font-size="17" text-anchor="middle"><text x="696" y="523">Refresh</text><text x="936" y="523">Settings</text><text x="817" y="579">Open dashboard ↗</text></g>
+  </g>
+</svg>

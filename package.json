@@ -1,0 +1,24 @@
+{
+  "name": "telegram-analytics-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-hosted Telegram analytics reports, access approval and finance reminders via a JSON adapter.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env src/main.js",
+    "preview": "node scripts/preview.js",
+    "check": "node scripts/check.js",
+    "test": "node --test test/*.test.js",
+    "smoke": "node scripts/smoke.js",
+    "identity": "node --env-file-if-exists=.env scripts/identity.js",
+    "demo-source": "node scripts/demo-source.js",
+    "integration": "node scripts/redis-check.js"
+  },
+  "dependencies": {
+    "redis": "6.3.0"
+  }
+}
